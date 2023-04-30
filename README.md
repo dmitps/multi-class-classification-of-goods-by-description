@@ -3,8 +3,8 @@
 </div>
 
 <div id="picture" align="center"
-    <a href="https://github.com/dmitps/multi-class-classification-of-goods-by-description/blob/main/marketplace.jpg">
-        <img src="https://github.com/dmitps/multi-class-classification-of-goods-by-description/blob/main/marketplace.jpg">
+    <a href="https://github.com/dmitps/multi-class-classification-of-goods-by-description/blob/main/Marketplaces.png">
+        <img src="https://github.com/dmitps/multi-class-classification-of-goods-by-description/blob/main/Marketplaces.png">
     </a>
 </div>
 
