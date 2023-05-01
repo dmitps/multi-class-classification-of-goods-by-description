@@ -61,7 +61,7 @@ Applied convolutional recurrent neural network (Convolutional Recurrent Neural N
   </tr>
 </table>
 
-**Implementation features:**
+#### Implementation features:
  * The project is made on text signs
  * All nested dictionaries and lists are unpacked
  * Lemmatization was not applied, since this method somewhat reduced the metric for our data
@@ -69,4 +69,3 @@ Applied convolutional recurrent neural network (Convolutional Recurrent Neural N
  * Model weights saved
  * Applied stratification when dividing data
  * Used TensorBoard extension for Jupyter Notebook
-
