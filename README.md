@@ -13,10 +13,10 @@ ____
 Applied convolutional recurrent neural network (Convolutional Recurrent Neural Network, CRNN). It combines the properties of convolutional neural networks (CNNs) used to process sequences (in our case, texts) and recurrent neural networks (RNNs) that allow modeling long-term dependencies in sequences.
 
 **Implementation features:**
- * the project is made on text signs
- * all nested dictionaries and lists are unpacked
- * lemmatization was not applied, since this method somewhat reduced the metric for our data
- * applied a number of callbacks to protect against retraining the model
- * model weights saved
- * applied stratification when dividing data
- * used TensorBoard extension for Jupyter Notebook
+ * The project is made on text signs
+ * All nested dictionaries and lists are unpacked
+ * Lemmatization was not applied, since this method somewhat reduced the metric for our data
+ * Applied a number of callbacks to protect against retraining the model
+ * Model weights saved
+ * Applied stratification when dividing data
+ * Used TensorBoard extension for Jupyter Notebook
