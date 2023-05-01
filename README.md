@@ -1,11 +1,9 @@
-<div id="header" align="center">
+<div align="center">
     <h1>Multiclass classification of goods by description</h1>
 </div>
 
-<div id="picture" align="center"
-    <a href="https://github.com/dmitps/multi-class-classification-of-goods-by-description/blob/main/Marketplaces.png">
-        <img src="https://github.com/dmitps/multi-class-classification-of-goods-by-description/blob/main/Marketplaces.png">
-    </a>
+<div align="center">
+  <img src="./images/Marketplaces.png" alt="Marketplaces">
 </div>
 
 Hundreds of new products appear on marketplaces every day. However, it is impossible to check the correctness of filling in the information about all the goods at once. An incorrectly defined category often leads to potentially lost profits from both the seller and marketplaces. We want to learn how to predict a category based on product descriptions.
